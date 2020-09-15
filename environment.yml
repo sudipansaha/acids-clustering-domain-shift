@@ -5,6 +5,7 @@ channels:
   - anaconda
   - defaults
 dependencies:
+  -  cmake
   - _libgcc_mutex=0.1=main
   - _tflow_select=2.1.0=gpu
   - absl-py=0.7.1=py37_0
