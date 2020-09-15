@@ -111,6 +111,9 @@ The PACS, Office31 and Office-Home datasets must be placed under the `data` dire
 
 Google Drive: [link](https://drive.google.com/file/d/12wzzR_Vn5tVocfZ-SnI5W6cqGqseqNYv/view?usp=sharing).
 
+<Sudipan-edit> Download dataset with commmand: gdown https://drive.google.com/uc?id=12wzzR_Vn5tVocfZ-SnI5W6cqGqseqNYv&export=download
+
+
 ## 6. Acknowledgements
 
 We thank [IIC](https://arxiv.org/abs/1807.06653) for the initial [codebase](https://github.com/xu-ji/IIC).
